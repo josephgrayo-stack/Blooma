@@ -10,7 +10,8 @@ export default function BloomaLanding() {
             Grow the life you envision.
           </h1>
           <p className="text-lg md:text-xl text-[#5F5F5F]">
-            A sleek, beautiful vision board that helps you stay inspired — and track real progress on short- and long-term goals.
+            A sleek, beautiful vision board that helps you stay inspired — and track
+            real progress on short- and long-term goals.
           </p>
           <div className="flex justify-center gap-4">
             <button className="rounded-2xl px-6 py-5 text-base bg-black text-white flex items-center justify-center gap-2">
@@ -23,13 +24,14 @@ export default function BloomaLanding() {
         </div>
       </section>
 
-      {/* PROBLEM SECTION */}
+      {/* PROBLEM / INSPIRATION SECTION */}
       <section className="py-24 px-6 bg-white">
         <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-4">
             <h2 className="text-3xl font-semibold">Inspiration shouldn’t fade.</h2>
             <p className="text-[#5F5F5F]">
-              Vision boards inspire — but they don’t evolve. Goal trackers organize — but they don’t motivate. Blooma brings them together.
+              Vision boards inspire — but they don’t evolve. Goal trackers organize —
+              but they don’t motivate. Blooma brings them together.
             </p>
           </div>
           <div className="h-64 rounded-2xl bg-[#EFEDE9] shadow-inner" />
@@ -87,7 +89,8 @@ export default function BloomaLanding() {
         <div className="max-w-4xl mx-auto text-center space-y-6">
           <h2 className="text-3xl font-semibold">Built for calm consistency.</h2>
           <p className="text-[#5F5F5F]">
-            No aggressive streaks. No productivity shame. No cluttered dashboards. Just clarity, intention, and growth.
+            No aggressive streaks. No productivity shame. No cluttered dashboards.
+            Just clarity, intention, and growth.
           </p>
         </div>
       </section>
