@@ -1,3 +1,11 @@
+Repository: blooma
+├─ app
+│  └─ page.tsx
+├─ public
+│  └─ icon.png
+├─ package.json
+├─ package-lock.json
+└─ tailwind.config.js
 import { ArrowRight } from "lucide-react";
 
 export default function BloomaLanding() {
